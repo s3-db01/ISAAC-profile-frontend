@@ -1,0 +1,8 @@
+{
+  "realm": "Profile",
+  "auth-server-url": "https://lobbyapplication.herokuapp.com/auth/",
+  "ssl-required": "external",
+  "resource": "profileapplication",
+  "public-client": true,
+  "confidential-port": 0
+}
